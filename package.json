@@ -1,6 +1,6 @@
 {
   "name": "@tepez/gitbook-cli-local",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run gitbook cli commands using a local copy installed with NPM",
   "main": "index.js",
   "scripts": {
