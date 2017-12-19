@@ -1,0 +1,28 @@
+{
+  "name": "@tepez/gitbook-cli-local",
+  "version": "0.0.0",
+  "description": "Run gitbook cli commands using a local copy installed with NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "np --no-publish --yolo --no-yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepez/gitbook-cli-local.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepez/gitbook-cli-local/issues"
+  },
+  "homepage": "https://github.com/tepez/gitbook-cli-local#readme",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "lodash": "^4.17.4",
+    "optimist": "^0.6.1"
+  },
+  "peerDependencies": {
+    "gitbook": "*"
+  }
+}
