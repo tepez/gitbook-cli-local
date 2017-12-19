@@ -1,6 +1,8 @@
 # gitbook-cli-local
 > Run gitbook cli commands using a local copy installed with NPM
 
+[![npm version](https://badge.fury.io/js/%40tepez%2Fgitbook-cli-local.svg)](https://badge.fury.io/js/%40tepez%2Fgitbook-cli-local)
+
 ## Why
 Because `gitbook-cli` installs `gitbook` to the user home directory and we needed to monkey-patch `gitbook` from the using project.
 
